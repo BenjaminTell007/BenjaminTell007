@@ -1,10 +1,8 @@
 # Ben Tell
 
-**Data Science Student, University of Oregon (Class of 2028)** — minoring in Business, Math, and Applied AI
-<br/>
-**Data & Analytics Intern @ Tillamook** — data engineering, sentiment analysis, and stakeholder-facing analytics
-<br/>
-**VP of Partnerships, Oregon Quant Group**
+- **Data Science Student, University of Oregon (Class of 2028)** — minoring in Business, Math, and Applied AI
+- **Data & Analytics Intern @ Tillamook** — data engineering, sentiment analysis, and stakeholder-facing analytics
+- **VP of Partnerships, Oregon Quant Group** — sponsorships and industry relationships
 
 **Stack:** Python · R · PyTorch · scikit-learn · FastAPI · React · SQL · Databricks · Microsoft Fabric
 
