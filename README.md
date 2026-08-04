@@ -64,23 +64,6 @@ class Ben:
 
 </div>
 
-## 📊 the numbers
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BenjaminTell007&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BenjaminTell007&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BenjaminTell007&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ben's GitHub stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminTell007&layout=compact&theme=radical&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminTell007&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminTell007&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
-</picture>
-
-</div>
-
 ## 🌐 let's connect
 
 <div align="center">
